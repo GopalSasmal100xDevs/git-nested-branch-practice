@@ -50,3 +50,11 @@ function isObject(obj) {
 console.log(
   invert_key_value({ red: "#FF0000", green: "#00FF00", white: "#FFFFFF" })
 );
+
+console.log(
+  invert_key_value({ red: "#FF0000", green: "#00FF00", white: "#FFFFFF" })
+);
+
+console.log(
+  invert_key_value({ red: "#FF0000", green: "#00FF00", white: "#FFFFFF" })
+);
